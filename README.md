@@ -82,8 +82,8 @@ Please see the [Licence file](LICENSE.md) for more information
 
 ## Screenshots
 
-![](Resources/images/v_overview.png)
+![](resources/images/v_overview.png)
 
-![](Resources/images/v_alerts.png)
+![](resources/images/v_alerts.png)
 
-![](Resources/images/alerts.png) &nbsp;   &nbsp;   &nbsp;   ![](Resources/images/response.png)
+![](resources/images/alerts.png) &nbsp;   &nbsp;   &nbsp;   ![](resources/images/response.png)
