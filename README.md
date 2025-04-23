@@ -2,9 +2,7 @@
 
 Jamf Security Orchestration, Automation and Response on the go!
 
-[Jamf Concepts Project Use Agreement](https://resources.jamf.com/documents/jamf-concept-projects-use-agreement.pdf)
-
-![](Resources/images/mac-light.png)
+<img src="https://github.com/Jamf-Concepts/remediaSOAR/blob/main/resources/images/v_alerts.png" width="750">
 
 ## Description
 
@@ -16,6 +14,7 @@ The Jamf Pro integration allows you to send a Remote Lock command to a Mac, or a
 
 The Jamf Security Cloud integration allows you to override a device's Risk Score, blocking access to sensitive resources.
 
+remediaSOAR is offered under the terms of the [Jamf Concepts Project Use Agreement](https://resources.jamf.com/documents/jamf-concept-projects-use-agreement.pdf).
 ## Requirements
 
 Minimum Requirements: 
