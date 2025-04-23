@@ -82,6 +82,9 @@ Server URLs, Client and User IDs, and Passwords are stored in Keychain.
 
 Please see the [Licence file](LICENSE.md) for more information
 
+## How To Get Help
+Please email "remediasoar" at jamf.com if you have questions, or file an issue if you encounter a bug.
+
 ## Screenshots
 
 ![](resources/images/v_overview.png)
