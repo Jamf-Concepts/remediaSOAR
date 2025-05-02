@@ -94,8 +94,8 @@ Settings like server URLs, client and user IDs, and passwords are stored in your
 
 ## Software Bill of Materials
 
-remediaSOAR incorporates [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON), Copyright (c) 2017 Ruoyu Fu, 
-under that project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/master/LICENSE).
+remediaSOAR incorporates [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) version 5.0.1, Copyright (c) 2017 Ruoyu Fu, 
+under the project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/master/LICENSE). 
 
 &nbsp;
 
