@@ -31,7 +31,7 @@ Please email us at "remediasoar" at jamf.com if you have suggestions. We'd love 
 Minimum Requirements: 
 
 * Jamf Protect
-* A device running once of the following:
+* A device running one of the following:
   * iOS 17.5 or later
   * iPadOS 17.5 or later
   * visionOS 1.1 or later
