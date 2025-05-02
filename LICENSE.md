@@ -1,6 +1,8 @@
 ## Use Agreement
 This software is offered under the terms of the [Jamf Concept Projects Use Agreement](https://resources.jamf.com/documents/jamf-concept-projects-use-agreement.pdf).
 
-## Bill of Materials
+## Other Licenense 
 
-This application incorporates [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) under that project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/master/LICENSE).
+Licenses for the following components are included by reference: 
+
+[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON), version 5.0.1, Copyright (c) 2017 Ruoyu Fu. [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/master/LICENSE).
