@@ -88,7 +88,7 @@ The Jamf Security Cloud integration allows you to assign or override a computer'
 
 ## Securing Your Secrets
 
-Settings like server URLs, client and user IDs, and passwords are stored in your keychain. If you enter them once and you use iCloud keychain sync enabled, the information will already be available when you run the app on other devices using the same Apple ID.
+Settings like server URLs, client and user IDs, and passwords are stored in your keychain. If you enter them once and you use iCloud keychain sync, the information will already be available when you run the app on other devices using the same Apple ID.
 
 &nbsp;
 
