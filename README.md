@@ -92,7 +92,7 @@ The Jamf Security Cloud integration allows you to assign or override a computer'
 
 ## Using the app
 
-Once the settings have been configured, you can use the filter button to view security alerts by severity and date range. You can swipe left or right on alert items in the list to resolve or flag them for followup. Tapping an alert item will display extended details. If you've configured the Jamf Pro or Security Cloud integrations, you can use the actions button in the upper-right to lock the device, add it to a static group to trigger a remediation workflow, or update the security cloud risk score to limit access to sensitive resources. 
+Once the settings have been configured, you can use the filter button to view security alerts by severity and date range. You can swipe left or right on alert items to resolve or flag them for followup. Tapping an alert item will display extended details. If you've configured the Jamf Pro or Security Cloud integrations, you can use the actions button in the upper-right to lock the device, add it to a static group to trigger a remediation workflow, or update the security cloud risk score to limit access to sensitive resources. 
 
 &nbsp;
 
