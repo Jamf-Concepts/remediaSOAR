@@ -1,7 +1,7 @@
 ## Use Agreement
 This software is offered under the terms of the [Jamf Concept Projects Use Agreement](https://resources.jamf.com/documents/jamf-concept-projects-use-agreement.pdf).
 
-## Other Licenense 
+## Other Licenses
 
 Licenses for the following components are included by reference: 
 
