@@ -2,11 +2,7 @@
 
 Jamf Security Orchestration, Automation and Response on the go!
 
-<img src="https://github.com/Jamf-Concepts/remediaSOAR/blob/main/resources/images/v_alerts.png" width="750">
-
-
-[Demo Video](https://github.com/Jamf-Concepts/remediaSOAR/raw/refs/heads/main/resources/jamfiSOAR_Video_Overview.mp4)
-
+https://github.com/user-attachments/assets/f71d3f0f-93e3-43c0-9db4-5a24b1a58beb
 
 &nbsp;
 
