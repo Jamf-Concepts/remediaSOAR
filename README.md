@@ -111,6 +111,4 @@ under the project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/
 
 ![](resources/images/iPad_1.png)
 
-![](resources/images/iPhone_1.png)
-
-![](resources/images/iPhone_2.png)
+![](resources/images/iPhone_1.png) ![](resources/images/iPhone_2.png)
