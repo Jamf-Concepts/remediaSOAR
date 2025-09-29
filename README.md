@@ -2,7 +2,7 @@
 
 Jamf Security Orchestration, Automation and Response on the go!
 
-https://github.com/user-attachments/assets/f71d3f0f-93e3-43c0-9db4-5a24b1a58beb
+Available for download on [Apple's App Store](https://apps.apple.com/app/remediasoar/id6692309693).
 
 &nbsp;
 
@@ -32,10 +32,10 @@ Minimum Requirements:
 
 * Jamf Protect
 * A device running one of the following:
-  * iOS 17.5 or later
-  * iPadOS 17.5 or later
-  * visionOS 1.1 or later
-  * macOS 14.4 or later
+  * iOS 26.0 or later
+  * iPadOS 26.0 or later
+  * visionOS 26.0 or later
+  * macOS 26.0 or later
 
 Optional Integrations:
 * Jamf Pro
@@ -107,8 +107,8 @@ under the project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/
 
 ## Screenshots
 
-![](resources/images/v_overview.png)
+![](resources/images/visionOS_1.png)
 
-![](resources/images/v_alerts.png)
+![](resources/images/iPad_1.png)
 
-![](resources/images/alerts.png) &nbsp;   &nbsp;   &nbsp;   ![](resources/images/response.png)
+![](resources/images/iPhone_1.png) ![](resources/images/iPhone_2.png)
