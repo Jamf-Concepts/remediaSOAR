@@ -4,8 +4,6 @@ Jamf Security Orchestration, Automation and Response on the go!
 
 Available on [Apple App Store](https://apps.apple.com/app/remediasoar/id6692309693).
 
-https://github.com/user-attachments/assets/f71d3f0f-93e3-43c0-9db4-5a24b1a58beb
-
 &nbsp;
 
 ## Description
@@ -120,10 +118,8 @@ under the project's [MIT License](https://github.com/SwiftyJSON/SwiftyJSON/blob/
 
 ![](resources/images/visionOS_1.png)
 
+![](resources/images/iPad_1.png)
+
 ![](resources/images/iPhone_1.png)
 
 ![](resources/images/iPhone_2.png)
-
-![](resources/images/iPad_1.png)
-
-![](resources/images/alerts.png) &nbsp;   &nbsp;   &nbsp;   ![](resources/images/response.png)
