@@ -2,7 +2,7 @@
 
 Jamf Security Orchestration, Automation and Response on the go!
 
-Available on [Apple App Store](https://apps.apple.com/app/remediasoar/id6692309693).
+Available for download on [Apple's App Store](https://apps.apple.com/app/remediasoar/id6692309693).
 
 &nbsp;
 
@@ -13,15 +13,6 @@ The remediaSOAR app gives administrators a streamlined way to view, filter, and 
 With the Jamf Pro integration, you can assign a device to a static computer group to scope a remediation policy, or send a Remote Lock command. 
 
 With the Jamf Security Cloud integration, you can override a device’s risk score to restrict access to sensitive resources.
-
-&nbsp;
-
-## Update 2.0
-* Requires iOS 26, iPadOS 26, or visionOS 26
-* Updated to use new visual design language
-* Added support for Apple Foundations Model to locally generate insight into security alerts
-* Added Search support for alerts based on computer, alert details, and more
-* Updated the list view to show charts with alert status and severity
 
 &nbsp;
 
