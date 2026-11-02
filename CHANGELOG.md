@@ -12,6 +12,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 ### Fixed
  
+## [2.1.0] - 2026-11-02
+
+### Added
+
+- Support for Jamf Platform Gateway API to simplify setup
+- Anonymous usage reporting
+
+### Changed
+
+- Better performance for large sets of alerts
+
+### Fixed
+
+- Bug fixes for Device Lock
+
 ## [2.0.0] - 2025-09-29
  
 ### Added
